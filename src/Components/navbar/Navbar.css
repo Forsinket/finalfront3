@@ -1,0 +1,9 @@
+.navbar {
+    display: flex;    
+}
+
+.menu {
+    display: flex;
+    margin-right: 32px;
+}
+

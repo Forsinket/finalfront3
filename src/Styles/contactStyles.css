@@ -1,0 +1,41 @@
+.contact{
+display: flex;
+flex-direction: column;
+justify-content:space-around;
+padding-left: 20px;
+align-items: center;
+}
+.formulario{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+width: 350px;
+height: 250px; 
+border: solid rgba(0, 0, 0, 0);
+border-radius: 20px ;
+background-color:rgba(161, 167, 113, 0.404);    
+
+}
+.input{
+text-align: center;
+width: 90%;
+height: 56px;;
+font-size: 14px;
+
+}
+
+.input input{
+text-align: center;
+width: 90%;
+font-size: 18px;
+}
+.input input:hover{
+border:solid rgba(20, 89, 20, 0.826);
+}
+.contenedor-formulario{
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+align-items: center;
+}
